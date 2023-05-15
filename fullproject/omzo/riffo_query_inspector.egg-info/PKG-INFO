@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: riffo-query-inspector
+Version: 1.0.1
+Summary: Package de middleware pour afficher les requestes les temps d'execution dans votre terminal
+Author: Oumar Thiombane
+License: Riffo Rif Licence
+        
+        Copyright (c) 2023 THIAPATHIOLY GLOBAL SERVICE
+        
+        Dans le Contrat de Licence d´Utilisation de Logiciel, le responsable du logiciel Oumar Thiombane cède le droit d’utilisation, par exemple, d’un programme informatique ou d’une application à un tiers, comprenant un ensemble de restrictions, mais en gardant la propriété du logiciel et ses droits d’exploitation. La Licence accordée est nontransférable (elle ne peut pas être vendue, transmise ou sous-licenciée) et non-exclusive, c’est-à-dire, que le Donneur de licence peut céder le même programme informatique à d’autres preneurs de licence, sans aucune restriction. À partir d’un ensemble de définitions de concepts techniques employés dans le Contrat de Licence de Logiciel, le Preneur de licence est tenu de se soumettre à un ensemble de conditions générales (installation, durée, prix et mode de paiement, garantie, etc.) sans qu’il ait à peine de capacité de les négocier avec le Donneur de licence.  Ce Contrat de Licence de Logiciel a été rédigé pour des opérations à l’échelle nationale où les deux parties (Donneur de licence et Preneur de licence) sont dans le même pays. Si ce n'est pas le cas, le document à établir sera le Contrat International de Licence de Logiciel.  
+Project-URL: Homepage, https://github.com/vibedarkness/complet.git
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE

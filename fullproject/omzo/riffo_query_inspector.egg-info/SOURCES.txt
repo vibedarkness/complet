@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+riffo-tools/__init__.py
+riffo-tools/middleware.py
+riffo_query_inspector.egg-info/PKG-INFO
+riffo_query_inspector.egg-info/SOURCES.txt
+riffo_query_inspector.egg-info/dependency_links.txt
+riffo_query_inspector.egg-info/requires.txt
+riffo_query_inspector.egg-info/top_level.txt

@@ -1,9 +1,28 @@
+[build-system]
+requires      = ["setuptools>=61.0.0","wheel"]
+build-backend = "setuptools.build_meta"
 [project]
 name="riffo-query-inspector"
 version= "1.0.1"
 description="Package de middleware pour afficher les requestes les temps d'execution dans votre terminal"
 readme= "README.md"
-licence={file="LICENCE"}
+license={file="LICENSE"}
+authors=[
+    {name="Oumar Thiombane"},
+]
+
+dependencies =[
+
+        "pygments>=2.14.0",
+        "sqlparse>=0.4.3",
+
+]
+
+
 
 requires-python=">=3.11"
+[tool.setuptools.packages.find]
+include=["riffo-tools"]
+
+[project.urls]
 Homepage="https://github.com/vibedarkness/complet.git"
