@@ -1,0 +1,9 @@
+[project]
+name="riffo-query-inspector"
+version= "1.0.1"
+description="Package de middleware pour afficher les requestes les temps d'execution dans votre terminal"
+readme= "README.md"
+licence={file="LICENCE"}
+
+requires-python=">=3.11"
+Homepage="https://github.com/vibedarkness/complet.git"
